@@ -1,7 +1,6 @@
 # langchain-text-summarization
 Text Summarization App built using Langchain and Streamlit
 
-## README Section: Text Summarization App
 
 ### Overview
 This repository contains a Streamlit application that utilizes the LangChain library and OpenAI's GPT models for text summarization. The app provides a user-friendly interface where users can input text and receive a summarized version.
@@ -21,7 +20,7 @@ This repository contains a Streamlit application that utilizes the LangChain lib
    - Click 'Submit' to receive the summarized text.
 
 ### Configuration
-- **API Key:** You need an OpenAI API key to use this application. Please refer to OpenAI's documentation for obtaining an API key.
+- **API Key:** You need an OpenAI API key to use this application. Please use the link - https://platform.openai.com/api-keys
 
 - **Adjusting Summarization Settings:**
   The text summarization settings can be modified in the `generate_response` function within the script.
@@ -29,12 +28,9 @@ This repository contains a Streamlit application that utilizes the LangChain lib
 ### Contributions
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
-### License
-This project is licensed under [specify license]. Please see the LICENSE file for more details.
-
 ### Support
 For support or queries, please open an issue in the GitHub issue tracker associated with this repository.
 
 ---
 
-**Note:** Replace `[repository-link]` and `[repository-directory]` with the actual link and name of your repository. Ensure you specify the correct license in the 'License' section.
+
